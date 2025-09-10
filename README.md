@@ -1,17 +1,19 @@
 # homelessness_shelterdata
-An Analysis of U.S. Homelessness Data
+An nalysis of U.S. Homelessness Data
 
 ## Important Note: 
 Data cannot 100% accurately explore complex humanitarian crises such as Homelessness, this data exploration project is only aimed to gather insights into demographic distributions to explore patterns for further research.
 
 
-Libraries used
+# Libraries used
 * Python 3.X
 * Pandas
 * Matplotlib.pyplot
 * Seaborn
 
-Dataset: total_capacity – Maximum number of beds per facility
+# Dataset:
+
+total_capacity – Maximum number of beds per facility
 
 occupied_beds – Number of beds currently filled
 
