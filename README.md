@@ -1,5 +1,5 @@
-# homelessness_shelterdata
-An nalysis of U.S. Homelessness Data
+# Homelessness Data
+An analysis of U.S. Homelessness Data
 
 ## Important Note: 
 Data cannot 100% accurately explore complex humanitarian crises such as Homelessness, this data exploration project is only aimed to gather insights into demographic distributions to explore patterns for further research.
